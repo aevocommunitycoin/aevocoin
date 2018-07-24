@@ -1,5 +1,3 @@
-![Aevo]
-
 Aevo is a decentralized PoW/PoS cryptocurrency with support for private transactions and high-reward masternodes.
 ## License
 Aevo implements the guidelines of the [MIT License](https://opensource.org/licenses/MIT). 
