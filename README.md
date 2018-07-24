@@ -1,4 +1,4 @@
-![Aevo](https://aevo.cf/git_img/about.png)
+![Aevo]
 
 Aevo is a decentralized PoW/PoS cryptocurrency with support for private transactions and high-reward masternodes.
 ## License
@@ -27,7 +27,7 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 ```
 Clone this github repository and change directory:
 ```sh
-git clone https://github.com/aevocoin/aevocoin
+git clone https://github.com/aevocommunity/aevocoin
 cd aevocoin
 ```
 For compiling the headless aevod daemon, enter the following commands:
@@ -49,7 +49,7 @@ sudo cp Aevo-qt /usr/local/bin
 ```
 
 ## Windows
-Compiliation steps are currently unavailable for Windows operating systems. Compiled wallet downloads are available at [https://aevo.cf](httsp://aevo.cf)
+Compiliation steps are currently unavailable for Windows operating systems. 
 
 # Important
 >THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
