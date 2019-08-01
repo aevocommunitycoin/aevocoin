@@ -1,6 +1,6 @@
 ## Aevo Coin
 
-<p align="center">  <a href="http://aevocoin.net">Website</a> | <a href="http://explorer.aevocoin">Block Explorer</a> | <a href="https://bitcointalk.org/index.php?topic=4701287">Bitcointalk</a> | <a href="discord.gg/JsfHe8d">Discord</a> | <a href="https://twitter.com/aevocoin">Twitter</a></p>
+<p align="center">  <a href="http://aevocoin.net">Website</a> | <a href="http://explorer.aevocoin.net">Block Explorer</a> | <a href="https://bitcointalk.org/index.php?topic=4701287">Bitcointalk</a> | <a href="https://discord.gg/JsfHe8d">Discord</a> | <a href="https://twitter.com/aevocoin">Twitter</a></p>
 
 ## Coin Specificatons 
 | Specification | Value |
