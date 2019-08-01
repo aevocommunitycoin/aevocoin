@@ -1,6 +1,6 @@
-Aevo is a decentralized PoW/PoS cryptocurrency with support for private transactions and high-reward masternodes.
-## License
-Aevo implements the guidelines of the [MIT License](https://opensource.org/licenses/MIT). 
+Aevo 
+
+<p align="center">  <a href="http://aevocoin.net">Website</a> | <a href="http://explorer.aevocoin">Block Explorer</a> | <a href="https://bitcointalk.org/index.php?topic=4701287">Bitcointalk</a> | <a href="discord.gg/JsfHe8d">Discord</a> | <a href="https://twitter.com/aevocoin">Twitter</a></p>
 
 ## Coin Specificatons 
 | Specification | Value |
@@ -13,5 +13,6 @@ Aevo implements the guidelines of the [MIT License](https://opensource.org/licen
 | Algorithm | Scrypt |
 | PoS Maturity | 12 hours |
 
-# Important
->THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## License
+
+Aevo is released under the terms of the MIT license. See [COPYING](COPYING) for more information or see https://opensource.org/licenses/MIT.
